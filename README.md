@@ -14,5 +14,5 @@ A Python-based web application designed to analyze media and detect deepfake con
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/vikashvr1024/deepfake.git](https://github.com/vikashvr1024/deepfake.git)
+   https://github.com/vikashvr1024/deepfake.git
    cd deepfake
