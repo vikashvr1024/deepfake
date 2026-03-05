@@ -16,9 +16,3 @@ A Python-based web application designed to analyze media and detect deepfake con
    ```bash
    https://github.com/vikashvr1024/deepfake.git
    cd deepfake
-
-## Contributors
-
-<a href="https://github.com/vikashvr1024/deepfake/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vikashvr1024/deepfake&v=2" />
-</a>
